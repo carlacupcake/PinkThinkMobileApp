@@ -1,0 +1,98 @@
+Notes on the Gameplay and User Experience Design for the PinkThink Mobile App
+
+Levels
+Level 1
+-explain outer for loop
+-Teach them to turn the bracelet on
+-Win Pearl Ring, unlock delay block in Creative Studio, 100 points
+Level 2
+-Teach them to make it blink
+Level 3
+-Make a two color blinking pattern (P, O, P, O…)
+Level 4
+-Make a three color blinking pattern (R, B, Y, R, B, Y…)
+Level 5
+-Make a more complex 3 light pattern (P, B, P, Y, P, B, P, Y…)
+-Win Opal Ring, unlock color block in Creative Studio, 500 points
+Level 6
+-Make a 1 color pattern of long and short blinks
+Level 7
+-Make a 2 color pattern of long and short blinks
+Level 8
+-Make a 3 color pattern of short, medium, long, short, medium, long blinks
+Level 9
+-Create SOS (Dashes 2 seconds, dots ½ seconds)
+Level 10
+-Introduce if
+-if hot, turn on red light
+-Win Emerald Ring, unlock If block in Creative Studio, 1,000 points
+Level 11
+-If it is cold turn on the green light. Turn on the pink light.
+Level 12
+-If dark turn on pink light, if bright turn on blue light
+Level 13
+-If it is cold turn on blue light, if it is dark turn on green light, if it is bright turn on orange light, if it is hot turn on pink light
+Level 14
+-If a variable, count, is divisible by 5 turn on pink light. Turn on Orange light.
+Level 15
+-Introduce If/Else
+-If hot turn on Red light, Else turn on blue light
+-Win Amethyst Ring, unlock If/Else block in Creative Studio, 2,500 points 
+Level 16
+-If count is divisible by 3 turn on red, else if count is divisible by 7 turn on blue, else blink green
+Level 17
+-If a number is even turn blue, if is is also divisible by 3 turn red, if it is only divisible by 3 turn purple
+Level 18
+-If a number is not divisible by 4 but it is divisible by 2 turn purple and then blue. If a number is not divisible by 8 but is divisible by 4 turn pink then yellow. Otherwise turn orange.
+Level 19
+-If it is hot and it is dark, turn on the red light. If it is hot and bright, turn on the pink light. If it is cold and dark, turn on the blue light. If it is cold and bright turn on the green light.
+Level 20
+-Introduce Repeat For block
+-Repeat for 10 times a light blinking yellow then repeat for 3 times a light blinking green.
+-Win Sapphire Ring, unlock For loop in Creative Studio, 5,000 points
+Level 21
+-Repeat for 6 times a light blinking yellow then green, repeat for 6 times a light blinking blue then purple, blink pink.
+Level 22
+-repeat for 4 times a blinking pink light, repeat for 4 times a blinking blue light, repeat for 4 times a blinking yellow light.
+Level 23
+-Repeat for 3 times [repeat for 4 times a blinking pink light, then repeat for 3 times a blinking orange light] Then flash pink, then blue, then green.
+Level 24
+-Repeat for 3 times-- blink pink, then blink blue. Then blink orange then repeat for 5 times [blink pink then repeat for 3 times [blink red then blink purple]] 
+Level 25
+-Introduce While loop
+-Create a variable, count, equal to 1000, have a while loop where a light blinks red for time count, and then 100 is subtracted from count (the light blinks faster and faster) until count equals 0.
+-Win Ruby Ring, unlock While loop in Creative Studio, 7,500 points
+Level 26
+-Create a variable, count, equal to 2000, have a while loop where a light blinks pink for time count, and then count is divided by 2 (the light blinks faster and faster) until count equals 0.Then have the light blink blue, red, purple, yellow.
+Level 27
+-Create a variable, count, equal to 1000, have a while loop where a light blinks on blue for time 1000- count and then off for time 0 + count, and then count is divided by 2 (the light blinks on for less time and off for more time) until count equals 0.Then have the light blink pink for 5000.
+Level 28
+-While the sensor detects Hot blink pink, yellow, red. Afterwards blink orange
+Level 29
+-While the sensor detects darkness blink blue, orange, green. After the while loop blink purple.
+Level 30
+-Make the light blink Red, Orange, Yellow, Green, Blue, Indigo, Violet
+-Win Diamond Ring, unlock Rainbow block in Creative Studio, 10,000 points
+ 
+Point Scheme
+-1st time asking for help or giving help: 100 points for both asker and giver
+-Repeated Giving/Receiving help: 50 points for each
+-Repeat loop: 1st time 100 points, otherwise 10 points
+-If statement: 1st time 100 points, otherwise 15 points
+-If/Else statement: 1st time 100 points, otherwise 20 points
+-While loop: 1st time 100 points, otherwise 15 points
+-Passing a level: 200 points
+-Invite someone: 150 points, additional 150 points if they sign up
+ 
+ 
+Awards
+-Copper Bracelet: 1,000 points
+-Bronze Bracelet: 5,000 points
+-Silver Bracelet: 10,000 points
+-Gold Bracelet: 50,000 points
+-Platinum Bracelet: 100,000 points
+ 
+ 
+Communicating with Friends for Help
+-Facebook 
+-Email
